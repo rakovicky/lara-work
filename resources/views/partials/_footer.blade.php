@@ -1,3 +1,1 @@
-<div id="footer">
-	© 2016 street-workout.sk | Všetky práva vyhradené
-</div>
+<p class="text-center">© 2016 street-workout.sk | Všetky práva vyhradené</p>
